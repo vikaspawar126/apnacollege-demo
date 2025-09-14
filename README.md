@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my Git Repository.
 <br>
-Author - Vikas Pawar (Drone pilot)
+Author - Vikas Pawar (FPV Drone pilot)
